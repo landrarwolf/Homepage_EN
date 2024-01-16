@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我即将博士毕业于湖北武汉的 华中科技大学 电子信息与通信工程学院，我的导师是ABC教授。本科毕业于武汉理工大学大学 理学院 数学专业。包括合著，我已经发表 *+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=i6_1qZoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我即将博士毕业于湖北武汉的 华中科技大学 电子信息与通信工程学院，我的导师是ABC教授。本科毕业于武汉理工大学大学 理学院 数学专业。包括合著，我已经发表 *+ 篇学术论文。
+<!--  <a href='https://scholar.google.com/citations?user=i6_1qZoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
 我的研究领域包括：
 - 机器学习
 - abc
 - abc
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 `林筠超`, 万源. 基于图结构优化的自适应多度量非监督特征选择方法[J]. 计算机应用, 2021, 41(5): 1282-1289.[[URL]](http://www.joca.cn/CN/Y2021/V41/I5/1282)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
